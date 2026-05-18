@@ -14,24 +14,28 @@
 
 ### 🏠 Home — Meeting Input
 <!-- Add screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aedb97c3-89bd-4d34-bc7a-5e1c87aa2f91" />
 > *Paste a transcript, upload a file, or drag & drop*
 
 ---
 
 ### 📊 Results Dashboard
 <!-- Add screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5887b694-2787-4d53-9090-f93d20804406" />
 > *Summary, action items, and decisions in one view*
 
 ---
 
 ### 💬 Chat with Meeting
 <!-- Add screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a126ba02-bb93-46da-a2c3-1c09055fa039" />
 > *Ask anything about your meeting content*
 
 ---
 
 ### 📧 Follow-up Email Generator
 <!-- Add screenshot here -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7f1dd60-0b30-4fc6-a429-0505e92c0f3b" />
 > *Auto-generated professional email, ready to copy*
 
 ---
