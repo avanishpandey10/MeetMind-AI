@@ -15,28 +15,28 @@
 ### 🏠 Home — Meeting Input
 <!-- Add screenshot here -->
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aedb97c3-89bd-4d34-bc7a-5e1c87aa2f91" />
-> *Paste a transcript, upload a file, or drag & drop*
+Paste a transcript, upload a file, or drag & drop*
 
 ---
 
 ### 📊 Results Dashboard
 <!-- Add screenshot here -->
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5887b694-2787-4d53-9090-f93d20804406" />
-> *Summary, action items, and decisions in one view*
+Summary, action items, and decisions in one view*
 
 ---
 
 ### 💬 Chat with Meeting
 <!-- Add screenshot here -->
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a126ba02-bb93-46da-a2c3-1c09055fa039" />
-> *Ask anything about your meeting content*
+Ask anything about your meeting content*
 
 ---
 
 ### 📧 Follow-up Email Generator
 <!-- Add screenshot here -->
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7f1dd60-0b30-4fc6-a429-0505e92c0f3b" />
-> *Auto-generated professional email, ready to copy*
+Auto-generated professional email, ready to copy*
 
 ---
 
@@ -83,7 +83,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/meeting-assistant.git
+git clone https://github.com/avanishpandey10/MeetMind-AI.git
 cd meeting-assistant/backend
 
 # 2. Install dependencies
@@ -96,7 +96,7 @@ cp .env.example .env
 Edit `.env`:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/meeting-assistant
+MONGODB_URI=mongodb://localhost:27017/MeetMind-AI
 GROQ_API_KEY=gsk_your_groq_api_key_here
 NODE_ENV=development
 ```
@@ -250,10 +250,10 @@ this.openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 ```env
 # Local MongoDB
-MONGODB_URI=mongodb://localhost:27017/meeting-assistant
+MONGODB_URI=mongodb://localhost:27017/MeetMind-AI
 
 # MongoDB Atlas
-MONGODB_URI=mongodb+srv://<user>:<pass>@cluster.mongodb.net/meeting-assistant
+MONGODB_URI=mongodb+srv://<user>:<pass>@cluster.mongodb.net/MeetMind-AI
 ```
 
 ---
@@ -317,8 +317,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-
-⭐ **Star this repo if you found it useful!** ⭐
 
 Made with ❤️ and ☕
 
