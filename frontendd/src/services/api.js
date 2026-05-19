@@ -1,11 +1,11 @@
 import axios from 'axios'
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://meetmind-ai-7xcq.onrender.com/api'
+const API_URL = import.meta.env.VITE_API_URL || 'https://meetmind-ai-7xcq.onrender.com'
 const api = axios.create({
   baseURL: API_URL,
   headers: {
     'Content-Type': 'application/json',
-  },
+  }, 
   timeout: 60000, // 60 seconds timeout for large files
 })
 
