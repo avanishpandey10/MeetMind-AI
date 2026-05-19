@@ -42,12 +42,13 @@ app.get('/health', (req, res) => {
 // MongoDB Connection
 const connectDB = async () => {
   try {
-    const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/meeting-assistant';
+    const mongoURI = process.env.MONGO_URI;
+
     await mongoose.connect(mongoURI);
+
     console.log('✅ MongoDB connected successfully');
   } catch (err) {
     console.error('❌ MongoDB connection error:', err.message);
-    console.log('⚠️  Running without database - data will not persist');
   }
 };
 
