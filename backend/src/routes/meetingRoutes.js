@@ -32,7 +32,7 @@ router.post('/process', async (req, res, next) => {
       }
     });
 
-    // await meeting.save(); 
+    await meeting.save(); 
     
     res.json(meeting);
   } catch (error) {
