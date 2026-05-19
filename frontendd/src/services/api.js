@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://meetmind-ai-7xcq.onrender.com'
-const api = axios.create({
+const API_URL = import.meta.env.VITE_API_URL || 'https://meetmind-ai-7xcq.onrender.com/api'
+  const api = axios.create({
   baseURL: API_URL,
   headers: {
     'Content-Type': 'application/json',
